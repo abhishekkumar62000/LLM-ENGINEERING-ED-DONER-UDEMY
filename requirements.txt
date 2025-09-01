@@ -6,7 +6,7 @@ numpy
 pandas
 scipy
 scikit-learn
-matplotlib
+matplotlib 
 gensim
 torch
 transformers
