@@ -38,7 +38,7 @@ accelerate
 sentencepiece
 bitsandbytes
 psutil
-setuptools
+setuptools 
 speedtest-cli
 sentence_transformers
 feedparser
