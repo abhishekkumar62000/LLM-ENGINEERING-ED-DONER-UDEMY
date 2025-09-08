@@ -5,7 +5,7 @@ requests
 numpy 
 pandas
 scipy
-scikit-learn
+scikit-lear
 matplotlib 
 gensim
 torch
