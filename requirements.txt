@@ -2,7 +2,7 @@ python-dotenv
 jupyterlab
 ipywidgets
 requests 
-numpy 
+numpy
 pandas
 scipy
 scikit-learn
