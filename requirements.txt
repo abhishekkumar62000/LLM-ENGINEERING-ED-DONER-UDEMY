@@ -1,7 +1,7 @@
 python-dotenv
 jupyterla
 ipywidgets
-requests
+requests 
 numpy
 pandas
 scipy
